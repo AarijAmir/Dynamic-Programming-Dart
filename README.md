@@ -1,2 +1,1 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Dyanmic Programming Implementation using Top-Down and Bottom-Up Approach in Dart.
